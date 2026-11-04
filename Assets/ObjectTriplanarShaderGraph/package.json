@@ -1,0 +1,17 @@
+{
+    "name": "com.eviltwo.object-triplanar-shader-graph",
+    "displayName": "Object Triplanar Shader Graph",
+    "version": "1.0.0",
+    "unity": "6000.6",
+    "description": "Object-space triplanar mapping for Unity Shader Graph.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+    ],
+
+    "dependencies": {
+    }
+}
